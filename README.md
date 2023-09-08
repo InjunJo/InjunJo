@@ -1,10 +1,6 @@
 ### 안녕하세요👋
 
-<p>전국 도서관 도서 검색 플랫폼 [MapBook]을 운영하고 있어요. https://mapbook.pro</p>
-<p>대출 횟수를 기반으로 책을 더 쉽게 찾고,</p>
-<p>지도로 대출 가능 도서관이 어딨는지도 쉽게 찾으세요!</p> <br><br><br>
 
-![image](https://github.com/InjunJo/InjunJo/assets/107255371/fcb3f190-4f2e-4401-ab7e-a62662eebd76)
 
 
 
